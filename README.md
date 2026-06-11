@@ -34,3 +34,5 @@ Claude · Gemini · Model Context Protocol · Next.js · Vercel · Kotlin
 ---
 
 [lumivara.tech](https://lumivara.tech) · [akshay@lumivara.tech](mailto:akshay@lumivara.tech) · [LinkedIn](https://www.linkedin.com/in/akshaypalimkar)
+
+<!-- profile readme -->
