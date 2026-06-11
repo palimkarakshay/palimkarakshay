@@ -17,8 +17,19 @@ no SAP system required.
 | [**mcp-kit**](https://github.com/palimkarakshay/mcp-kit) | Production-grade starter + cookbook for building MCP servers — the foundation the suite is built on |
 
 Also here: [ABAP-Utilities](https://github.com/palimkarakshay/ABAP-Utilities) ·
-[abapToC](https://github.com/palimkarakshay/abapToC) ·
+[abapToC](https://github.com/palimkarakshay/abapToC) (a maintained fork of
+[Marcin Kaszuba's original](https://github.com/Kaszub09/abapToC), renamed to the `ZAPTOC*`
+namespace so both install side by side) ·
 [anaplan-kit](https://github.com/palimkarakshay/anaplan-kit)
+
+### Community
+
+Small contributions where the ABAP open-source ecosystem gathers:
+[ABAP-Utilities](https://github.com/palimkarakshay/ABAP-Utilities) and
+[abapToC](https://github.com/palimkarakshay/abapToC) are listed on
+[dotabap.org](https://dotabap.org) (with [abap-mcp](https://github.com/palimkarakshay/abap-mcp)
+under related tools), and I try to give back to the SAP developer community through the
+tooling above — built in the open, MIT-licensed, issues and PRs welcome.
 
 ### Built with the same conviction
 
